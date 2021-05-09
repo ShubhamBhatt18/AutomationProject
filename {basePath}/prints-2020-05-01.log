@@ -1,0 +1,7 @@
+19:14:31.285 [main] INFO  AutomationPractice.createCustomer - Password Entered
+19:14:31.905 [main] INFO  AutomationPractice.createCustomer - Day Selected
+19:14:33.081 [main] INFO  AutomationPractice.createCustomer - Month Selected
+19:14:33.286 [main] INFO  AutomationPractice.createCustomer - Year Selected
+19:14:33.460 [main] INFO  AutomationPractice.createCustomer - News Letter checkbox checked
+19:14:33.547 [main] INFO  AutomationPractice.createCustomer - Special Offer Checkbox checked
+19:14:33.695 [main] INFO  AutomationPractice.createCustomer - Address First Name Entered

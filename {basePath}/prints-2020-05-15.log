@@ -1,0 +1,6 @@
+18:39:22.571 [main] INFO  AutomationPractice.createCustomer - News Letter checkbox checked
+18:39:22.675 [main] INFO  AutomationPractice.createCustomer - Special Offer Checkbox checked
+18:39:22.789 [main] INFO  AutomationPractice.createCustomer - Address First Name Entered
+18:39:22.928 [main] INFO  AutomationPractice.createCustomer - Address Last Name Entered
+18:39:23.099 [main] INFO  AutomationPractice.createCustomer - Company Name Entered
+18:39:23.258 [main] INFO  AutomationPractice.createCustomer - Address Name Entered
